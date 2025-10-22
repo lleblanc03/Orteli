@@ -3,7 +3,9 @@
     <pb facs="#f000"/>
 <ab>
 <lb/> 
-    <supplied reason="lost">Something is missing but I've deduced that it is X.</supplied>
+    <lb/>This line has a <supplied reason="lost">missing word</supplied> restored by the editor.
+    <lb/> here is an <unclear reason="faded">unreadable phrase</unclear> we couldn’t decipher.
+    <lb/>Finally, <hi rend="italic">this part</hi> is italicized in the original.
 </ab>
 
 <pb facs="#f001"/>
