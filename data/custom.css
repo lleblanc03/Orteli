@@ -1,0 +1,19 @@
+supplied {
+  color: #0055aa;
+  font-style: italic;
+}
+
+unclear {
+  color: #888;
+  text-decoration: underline dotted red;
+}
+
+hi[rend="italic"] {
+  font-style: italic;
+}
+hi[rend="bold"] {
+  font-weight: bold;
+}
+hi[rend="underline"] {
+  text-decoration: underline;
+}
