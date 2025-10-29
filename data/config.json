@@ -4,12 +4,7 @@
   "iiifManifest": "/Orteli/OrteliDocument/iiif/manifest.json",
   "transcriptionTypes": {
     "transcription": {
-      "label": "Transcription",
-      "path": "data/transcription"
-  },
-    "teiMarkup": {
-      "label": "TEI Markup",
-      "path": "data/TEIMarkup"
+      "label": "Transcription"
   }
   },
   "viewerUrl": "/Orteli",

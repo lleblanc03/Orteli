@@ -563,60 +563,6 @@
 <lb />Transcription for Seq. 21
 </ab>
  </div>
-
- <!-- ============================================================ -->
-  <!-- TEI MARKUP EXAMPLES SECTION -->
-  <!-- ============================================================ -->
-  <div xml:id="TEIMarkup">
-
-    <!-- Example 1: <unclear> -->
-    <pb facs="#f009" />
-    <ab>
-      <lb/><!-- Example: <unclear> -->
-      Marks text that is difficult to read:
-      <unclear reason="faded">king</unclear>
-    </ab>
-
-    <!-- Example 2: <supplied> -->
-    <pb facs="#f010" />
-    <ab>
-      <lb/><!-- Example: <supplied> -->
-      Editor-supplied text replacing something missing:
-      <supplied reason="lost">and so it was done</supplied>
-    </ab>
-
-    <!-- Example 3: <choice> -->
-    <pb facs="#f011" />
-    <ab>
-      <lb/><!-- Example: <choice> -->
-      Shows uncertain manuscript text and supplied correction:
-      <choice>
-        <unclear>powd</unclear>
-        <supplied>powder</supplied>
-      </choice>
-    </ab>
-
-    <!-- Example 4: <choice> (original + regularized) -->
-    <pb facs="#f012" />
-    <ab>
-      <lb/><!-- Example: <choice> (orig + reg) -->
-      Displays original vs. regularized spelling:
-      <choice>
-        <orig>ye</orig>
-        <reg>the</reg>
-      </choice>
-    </ab>
-
-    <!-- Example 5: <hi> -->
-    <pb facs="#f013" />
-    <ab>
-      <lb/><!-- Example: <hi> -->
-      Highlights visual formatting:
-      <hi rend="italic">De Secretis Mulierum</hi> and
-      <hi rend="bold">CHAPTER I</hi>
-    </ab>
-
-  </div>
 </body>
 </text>
 
