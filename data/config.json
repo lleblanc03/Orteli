@@ -3,7 +3,8 @@
   "documentName": "Orteli Document",
   "iiifManifest": "/Orteli/OrteliDocument/iiif/manifest.json",
   "transcriptionTypes": {
-    "transcription": "Transcription"
+    "transcription": "Transcription",
+    "TEIMarkup": "TEI Markup"
   },
   "viewerUrl": "/Orteli",
   "customCss": "custom.css"
