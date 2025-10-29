@@ -1,51 +1,13 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#f020"/>
-    <ab><lb/>Transcription for Seq. 21</ab>
-  </div>
+<ab>
+<lb/>Transcription for Seq. 21
+</ab>
+ </div>
 
-  <!-- ============================================================ -->
-  <!-- TEI MARKUP EXAMPLES -->
-  <!-- This section demonstrates TEI editorial tags for reference -->
+ <!-- ============================================================ -->
+  <!-- TEI MARKUP EXAMPLES SECTION -->
   <!-- ============================================================ -->
   <div xml:id="TEIMarkup">
-    <head><hi rend="bold">TEI Markup Examples</hi></head>
 
-    <ab>
-      <lb/><!-- Example: <unclear> -->
-      Marks text that is difficult to read: 
-      <unclear reason="faded">king</unclear>
-    </ab>
-
-    <ab>
-      <lb/><!-- Example: <supplied> -->
-      Editor-supplied text replacing something missing:
-      <supplied reason="lost">and so it was done</supplied>
-    </ab>
-
-    <ab>
-      <lb/><!-- Example: <choice> -->
-      Shows uncertain manuscript text and supplied correction:
-      <choice>
-        <unclear>powd</unclear>
-        <supplied>powder</supplied>
-      </choice>
-    </ab>
-
-    <ab>
-      <lb/><!-- Example: <choice> (original + regularized) -->
-      Shows original and regularized forms:
-      <choice>
-        <orig>ye</orig>
-        <reg>the</reg>
-      </choice>
-    </ab>
-
-    <ab>
-      <lb/><!-- Example: <hi> -->
-      Highlights visual formatting:
-      <hi rend="italic">De Secretis Mulierum</hi> and 
-      <hi rend="bold">CHAPTER I</hi>
-    </ab>
-
-  </div>
-</body>
-</text>
+    <!-- Example 1: <unclear> -->
+    </div></body></text>
